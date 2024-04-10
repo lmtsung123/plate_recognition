@@ -15,8 +15,9 @@
 ## 操作示範
 ### 辨識車牌：EQK-2172
 ![EQK-2172](./img/sample.png)
-### 示範影片
+### [示範影片](https://www.example.com)
 
 <video id="video" controls="" preload="none" poster="示範影片">
-    <source id="webm" src="./img/illustrate.mp4" type="video/mp4">
+    <source id="webm" src="https://www.example.com" type="video/webm">
 </video>
+
