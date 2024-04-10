@@ -16,4 +16,7 @@
 ### 辨識車牌：EQK-2172
 ![EQK-2172](./img/sample.png)
 ### 示範影片
-<iframe width="1236" height="695" src="https://www.youtube.com/embed/m7_GpSqjvMk" title="車牌辨識系統實作" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<video id="video" controls="" preload="none" poster="示範影片">
+    <source id="webm" src="./img/illustrate.mp4" type="video/mp4">
+</video>
